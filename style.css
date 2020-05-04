@@ -1,0 +1,65 @@
+body{
+	background-color: rgba(128,128,128,0.4);
+}
+
+/*Main Div Style*/
+.main{
+	width: 100%;
+	height: 100%;
+}
+/*Main Div Style End*/
+
+
+/*Header Style Start*/
+header{
+	margin-top: 10px;
+	font-family: 'Fredoka One', cursive;
+	font-size:50px;
+	text-align: center;
+	text-shadow: 2px 2px red;
+	background-color: rgba(255,255,255,0.4);
+}
+/*Header Style End*/
+
+
+/*Image Div's Style Start*/
+.img-1, .img-2, .img-3,
+.img-4, .img-5, .img-6{
+	margin-top: 30px;
+	width: 380px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 50px;
+	padding-left: 0px;
+	padding-top: 25px;
+	text-align: center;
+}
+/*Image Div's Style End*/
+
+
+/*Image Div's Hover Style*/
+.img-1:hover ,
+.img-2:hover,
+.img-3:hover,
+.img-4:hover,
+.img-5:hover,
+.img-6:hover{
+	border: 2px solid rgba(255,255,255,0.2);
+	background-color: rgba(255,255,255,0.2);
+	font-family: 'Pacifico', cursive;
+}
+/*Image Div's Hover Style End*/
+
+
+/*Image Headings Style*/
+.image-headings{
+	margin-top: -10px;
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+	font-size: 25px;	
+}
+/*Image Headings Style End*/
+
+
+
+
